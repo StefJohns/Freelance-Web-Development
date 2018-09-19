@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    align-content: center;
+}
+.navbar {
+    background-color: bisque;
+    margin-bottom: 20px;
+}
+h3, p {
+ color: white;
+}
+#carouselContainer {
+    border-radius: 5px;
+    max-height: 600px !important;
+    margin: auto;
+    max-width: 600px;
+
+
+}
+#carouselImages {
+    border: 2px solid #000;
+    border-radius: 5px;
+      max-height: 600px !important;
+}
+.carousel-item img{
+    border: 2px solid #000;
+    border-radius: 5px;
+      max-height: 600px !important;
+}
